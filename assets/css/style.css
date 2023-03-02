@@ -1293,7 +1293,7 @@ Start Experience Style
 Start partner Style
 ==============================*/
 .partner-section {
-    background-image: url(../img/partner-bg.png);
+    background-image: url(../img/mytee/mytee\ \(5\).jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1450,7 +1450,7 @@ Start Service Style
 .service-section .single-service::before {
     content: "";
     position: absolute;
-    background-image: url(../img/construction-outline.png);
+    /* background-image: url(../img/construction-outline.png); */
     background-repeat: no-repeat;
     background-position: bottom;
     bottom: 0;
@@ -2497,13 +2497,13 @@ header.header.header-style-three::before {
     color: #ffffff;
 }
 .slider-item-three-bg-1 {
-    background-image: url(../img/home-three/slider.jpg)
+    background-image: url(../img/mytee/mytee\ \(6\).jpg)
 }
 .slider-item-three-bg-2 {
-    background-image: url(../img/home-three/slider-2.jpg)
+    background-image: url(../img/mytee/mytee\ \(7\).jpg)
 }
 .slider-item-three-bg-3 {
-    background-image: url(../img/home-three/slider-3.jpg)
+    background-image: url(../img/mytee/mytee\ \(8\).jpg)
 }
 
 /*
